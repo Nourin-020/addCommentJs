@@ -1,0 +1,15 @@
+/* style post button */
+#button-post{
+    background:green;
+    color:white;
+    margin-left:40px;
+}
+p{
+    font-family:'Times New Roman', Times, serif;
+    font-size:24px;
+    text-align:left;
+}
+#post-text{
+    width:50%;
+    margin:auto;
+}
